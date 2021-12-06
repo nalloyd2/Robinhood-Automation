@@ -1,0 +1,3 @@
+username [insert RH username]
+password [insert RH password]
+code [insert PYOTP code] ###See https://robin-stocks.readthedocs.io/en/latest/quickstart.html#with-mfa-entered-programmatically-from-time-based-one-time-password-totp for more information
