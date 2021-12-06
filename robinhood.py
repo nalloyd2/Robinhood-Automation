@@ -5,7 +5,7 @@ from robin_stocks.robinhood.urls import currency_url
 
 #Robinhood Authentication Prep
 auth_keys = {}
-with open('[insert directory to credentials file') as authFile:
+with open('[insert directory to credentials file]') as authFile:
     for line in authFile:
         key, value = line.split()
         auth_keys[key] = value
